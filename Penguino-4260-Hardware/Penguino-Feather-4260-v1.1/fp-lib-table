@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Custom_Logos)(type KiCad)(uri C:/Users/orkha/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Custom_Logos.pretty)(options "")(descr ""))
+  (lib (name rak4260)(type KiCad)(uri C:/Users/Admin/SAMR34/Penguino-4260/Penguino-4260-Hardware/lib_RAK4260/rak4260.pretty)(options "")(descr ""))
 )
