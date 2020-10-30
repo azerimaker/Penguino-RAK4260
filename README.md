@@ -6,7 +6,9 @@ First prototypes are being sold on [Tindie](https://www.tindie.com/products/2114
 ________________________________
 
 ### Current HW version is:
-Penguino Feather v1.1.
+Penguino Feather v1.2. 
+- Comes with green soldermask
+- Adds CH340E USB-UART Converter IC
 
 ![Penguino Feather Breakout v1.1](Penguino-4260-Photos/penguino-4260-01.png)
 
