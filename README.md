@@ -14,6 +14,14 @@ Penguino Feather v1.2.
 
 ________________________________
 
+
+### Example Firmware
+
+Povided example in the *Firmware* directory contains ready to use example projetcs for Atmel Studio v7.
+- RGB LED Toggle 
+- LoRaWAN UART Demo
+
+
 ## License:
 - Hardware license: CERN-OHL-S v2
 - Software license: under MIT unless otherise indicated 
